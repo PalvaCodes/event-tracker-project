@@ -86,19 +86,6 @@ Built to replicate the functionality of large-scale event platforms like Songkic
 ---
 
 
-## 📸 Screenshots
-
-> *(Add real screenshots or demo gifs once you’ve got them!)*
-
----
-
-## 📄 License
-
-MIT License — Fork it, remix it, ship it.
-
----
-
-
 
 
 
